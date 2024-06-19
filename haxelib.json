@@ -5,5 +5,7 @@
     "classPath": "",
     "url": "https://github.com/saturn-volv/haxeScry",
     "license": "MIT",
-    "tags": ["magic-the-gathering", "scryfall", "mtg", "magic", "cards", "scry"]
+    "tags": ["magic-the-gathering", "scryfall", "mtg", "magic", "cards", "scry"],
+    "releasenote": "Adds basic functionality for searching cards/sets, including fuzzy/exact searching cards, and utilizing Scryfall's EXTENSIVE query searching.",
+    "contributors": ["saturn-volv"]
 }
