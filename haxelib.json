@@ -1,0 +1,9 @@
+{
+    "name": "hxScry",
+    "description": "This is a (W.I.P) implementation of the Scryfall REST API provided. Functionality is very basic but still rather powerful. Definitely more support coming soon!",
+    "version": "0.0.1-alpha",
+    "classPath": "",
+    "url": "put github link here !!",
+    "license": "MIT",
+    "tags": "magic-the-gathering, scryfall, mtg, magic, cards, scry"
+}
